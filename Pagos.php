@@ -95,7 +95,7 @@ $custRow = $query->fetch_assoc();
         <a href="AccionCarta.php?action=placeOrder" class="btn btn-success orderBtn">Realizar pedido <i class="glyphicon glyphicon-menu-right"></i></a>
     </div>
         </div>
- <div class="panel-footer">BaulPHP</div>
+ <div class="panel-footer">schneiderjesus02@gmail.com</div>
  </div><!--Panek cierra-->
 </div>
 </body>
