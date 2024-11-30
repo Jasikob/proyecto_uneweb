@@ -87,7 +87,7 @@ $cart = new Cart;
     </table>
     
     </div>
- <div class="panel-footer">BaulPHP</div>
+ <div class="panel-footer">schneiderjesus02@gmail.com</div>
  </div><!--Panek cierra-->
  
 </div>
